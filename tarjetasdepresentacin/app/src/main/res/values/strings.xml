@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">tarjetas de presentación</string>
+    <string name="person_name">Jose Miranda</string>
+    <string name="profession">Android Developer</string>
+    <string name="phone">+591 63133844</string>
+    <string name="profile">\@josemiranda</string>
+    <string name="email">josenacho567@gmail.com</string>
+    <string name="android_logo_description">Logotipo de Android</string>
+    <string name="phone_description">Teléfono</string>
+    <string name="profile_description">Perfil</string>
+    <string name="email_description">Correo electrónico</string>
+</resources>
